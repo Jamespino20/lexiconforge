@@ -1,4 +1,4 @@
-package lexiconforgev2.main.UI.Dialogs;
+package lexiconforge.main.UI.Dialogs;
 
 import javax.swing.*;
 import java.awt.BorderLayout;
@@ -32,7 +32,7 @@ public class AboutDialog extends JDialog {
         String aboutHtml = "<html><body style='width:400px;'>"
             + "<h2>LexiconForge</h2>"
             + "<p>Version 2.2</p>"
-            + "<p>Created by Alexus Espido</p>"
+            + "<p>Created by Jamespino20</p>"
             + "</body></html>";
         JLabel aboutLabel = new JLabel(aboutHtml);
         aboutLabel.setHorizontalAlignment(SwingConstants.CENTER);
