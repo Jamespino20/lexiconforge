@@ -112,6 +112,7 @@ Known Issues & Limitations
 
 - Scrollbar Issues: There may be temporary glitches with scrolling in some panels, particularly in the **Translator Panel**.
 - Dialog Box Glitch: Occasionally, dialog boxes may open multiple times if triggered repeatedly; this is being addressed in the next patch.
+- Names-Word Mixup: Names which are also common words like "Hope", "Mark", "Grace", "Bill", and so on do not have restrictions to being translated. Implementation of name lists, NERs, or context-aware translations are being decided on.
 
 ---
 
@@ -121,7 +122,6 @@ Roadmap
 - Expand the dictionary import/export functionality to support additional formats.
 - Finalize the integration of wordlists for all supported languages.
 - Fix minor bugs in the user interface related to text field errors and scrolling behavior.
-
 
 
 LexiconForge is licensed under the Apache 2.0 License. See the LICENSE file for more information.
