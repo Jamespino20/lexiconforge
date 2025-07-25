@@ -43,16 +43,11 @@ Installation
 
 
 3. Build the Project:
-   If you're using an IDE, you can import the project directly and build it from there. Otherwise, you can use Maven or Gradle to build the project. 
+   If you're using an IDE, you can import the project directly and build it from there. Otherwise, you can use Ant to build the project:
 
-   Maven (in the root directory):
-   mvn clean install
+   java -jar "LexiconForge.jar"
 
-
-   Gradle (in the root directory):
-   gradle build
-
-4. Run the Application:
+5. Run the Application:
    After the build completes successfully, you can run LexiconForge with the following command:
    java -jar LexiconForge.jar
 
