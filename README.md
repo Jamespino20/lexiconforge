@@ -1,12 +1,14 @@
-LexiconForge README
+# LexiconForge README
 
-Overview
+## Overview
 
 LexiconForge is a Java-based multi-class graphical user interface (GUI) application designed to create, manage, and translate dictionaries for constructed languages (conlangs) or ciphers. It is built to support language development, allowing users to input and export words, manage phonetics, and customize translation dictionaries between different languages. 
 
 This tool is ideal for language enthusiasts, writers, or developers who are working with fictional languages or ciphers and need a streamlined interface to manage their linguistic creations.
 
-Key Features
+---
+
+## Key Features
 
 - Language & Dictionary Management:
   - Create, Import, and Export Dictionaries for various languages.
@@ -33,9 +35,9 @@ Key Features
 - Export Options:
   - Export dictionaries into user-friendly formats for use in other applications or for sharing with others.
 
+---
 
-
-Installation
+## Installation
 
 1. Pre-requisites:
    - Java 8 or higher.
@@ -53,15 +55,16 @@ Installation
 
    If using an IDE, simply run the main class (`SplashScreen`).
 
+---
 
-Usage
+## Usage
 
-Splash Screen and Login
+### Splash Screen and Login
 - Upon starting LexiconForge, you’ll be greeted by a splash screen, followed by the login page.
 - If you're a new user, click "Register" to create an account.
 - The login page includes an option to show/hide the password, along with error handling for incorrect login attempts.
 
-Main Interface
+### Main Interface
 
 1. Ribbon:
    The application uses a Microsoft Office-inspired ribbon for easy navigation:
@@ -84,22 +87,20 @@ Main Interface
    - Modify word meanings, translations, phonetics, and synonyms.
    - Confirm changes before returning to the main dictionary panel.
 
+### File Export/Import
 
-File Export/Import
-
-Exporting Dictionaries:
+- Exporting Dictionaries:
 1. Navigate to the Export Dictionary button in the Ribbon.
 2. Select the dictionary to export.
 3. Choose the format: JSON, SQLite, or Spreadsheet.
 4. Select the destination folder in your file system. The dictionary will be saved in a folder structure that maintains user-specific data.
 
-Importing Dictionaries:
+- Importing Dictionaries:
 1. Navigate to the Import Dictionary button in the Ribbon.
 2. Browse and select a dictionary file.
 3. The application will import the dictionary into the user’s language storage.
 
-
-User Preferences
+### User Preferences
 
 LexiconForge saves individual user preferences, including:
 -*Theme: Switch between light and dark themes.
@@ -108,7 +109,7 @@ LexiconForge saves individual user preferences, including:
 
 ---
 
-Known Issues & Limitations
+## Known Issues & Limitations
 
 - Scrollbar Issues: There may be temporary glitches with scrolling in some panels, particularly in the **Translator Panel**.
 - Dialog Box Glitch: Occasionally, dialog boxes may open multiple times if triggered repeatedly; this is being addressed in the next patch.
@@ -116,7 +117,7 @@ Known Issues & Limitations
 
 ---
 
-Roadmap
+## Roadmap
 
 - Implement enhanced word search functionality for faster lookups.
 - Expand the dictionary import/export functionality to support additional formats.
@@ -125,12 +126,13 @@ Roadmap
 
 ---
 
-LexiconForge is licensed under the Apache 2.0 License. See the [LICENSE](https://github.com/Jamespino20/lexiconforge/blob/master/APACHE_LICENSE.md) file for more information.
+## Licensing
+
+LexiconForge is licensed under the Apache 2.0 License. See the LICENSE file for more information.
 
 ---
 
-Credits:
-
+## Credits:
 kkrypt0nn for the wordlists: https://github.com/kkrypt0nn/wordlists/tree/main/wordlists/languages
 
 Substance jar file: https://jar-download.com/artifacts/com.github.insubstantial/substance-flamingo/7.2.1/source-code
