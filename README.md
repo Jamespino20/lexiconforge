@@ -125,7 +125,7 @@ Roadmap
 
 ---
 
-LexiconForge is licensed under the Apache 2.0 License. See the LICENSE file for more information.
+LexiconForge is licensed under the Apache 2.0 License. See the [LICENSE](https://github.com/Jamespino20/lexiconforge/blob/master/APACHE_LICENSE.md) file for more information.
 
 ---
 
