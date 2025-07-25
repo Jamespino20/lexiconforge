@@ -8,6 +8,19 @@ This tool is ideal for language enthusiasts, writers, or developers who are work
 
 ---
 
+## Table of Contents
+
+- [Key Features](#key-features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Known Limitations](#known-limitations)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+- [Credits](#credits)
+
+---
+
 ## Key Features
 
 - Language & Dictionary Management:
@@ -126,13 +139,22 @@ LexiconForge saves individual user preferences, including:
 
 ---
 
-## Licensing
+## Contributing
+
+Contributions are welcome! Please:
+- Open issues for bugs/feature requests.
+- Fork and submit pull requests for improvements.
+- Ensure code follows existing style and is well-tested.
+
+---
+
+## License
 
 LexiconForge is licensed under the Apache 2.0 License. See the LICENSE file for more information.
 
 ---
 
-## Credits:
+## Credits
 kkrypt0nn for the wordlists: https://github.com/kkrypt0nn/wordlists/tree/main/wordlists/languages
 
 Substance jar file: https://jar-download.com/artifacts/com.github.insubstantial/substance-flamingo/7.2.1/source-code
