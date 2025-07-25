@@ -123,11 +123,14 @@ Roadmap
 - Finalize the integration of wordlists for all supported languages.
 - Fix minor bugs in the user interface related to text field errors and scrolling behavior.
 
+---
 
 LexiconForge is licensed under the Apache 2.0 License. See the LICENSE file for more information.
 
+---
 
 Credits:
+
 kkrypt0nn for the wordlists: https://github.com/kkrypt0nn/wordlists/tree/main/wordlists/languages
 
 Substance jar file: https://jar-download.com/artifacts/com.github.insubstantial/substance-flamingo/7.2.1/source-code
