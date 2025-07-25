@@ -127,8 +127,11 @@ Roadmap
 LexiconForge is licensed under the Apache 2.0 License. See the LICENSE file for more information.
 
 
-Credits
+Credits:
 kkrypt0nn for the wordlists: https://github.com/kkrypt0nn/wordlists/tree/main/wordlists/languages
+
 Substance jar file: https://jar-download.com/artifacts/com.github.insubstantial/substance-flamingo/7.2.1/source-code
+
 Flamingo jar file by kirill-grouchnikov: https://github.com/kirill-grouchnikov/radiance/blob/sunshine/archive/flamingo/flamingo-5.3.00.jar
+
 Trident jar file by kirill-grouchnikov: https://github.com/kirill-grouchnikov/radiance/blob/sunshine/archive/trident/trident-1.5.00.jar
